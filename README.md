@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, I'm Abhishek Bhardwaj 👋
+# Hey, I'm Abhishek 👋
 
 ### Full Stack Engineer · Web & Mobile
 
