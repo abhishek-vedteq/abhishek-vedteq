@@ -1,22 +1,42 @@
-# Hey, I'm Abhishek 👋
+# Hey, I'm Abhishek Bhardwaj 👋
 
-**Full Stack Engineer | Web & Mobile Developer**
+**Full Stack Engineer · Web & Mobile · AI Enthusiast**
 
-Building scalable applications and clean user experiences using modern technologies.
+I build scalable digital products across web and mobile, combining modern frontend experiences with robust backend systems.
 
-### 💻 Tech Stack
+### Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+**Frontend & Mobile**
 
-**Backend:** Node.js, Express.js, NestJS
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis
+**Backend & Databases**
 
-**Tools:** Git, Docker, AWS, Azure, Vercel
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### 🚀 About Me
+**Cloud & Tools**
 
-- 💻 Building modern web and mobile applications
-- ⚡ Focused on performance, scalability, and clean code
-- 🤖 Exploring AI and developer tools
-- 🌱 Always learning and improving
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### GitHub Overview
+
+<!-- Replace YOUR_USERNAME with your GitHub username -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent)
+
+---
+
+📍 India · 💻 Building for the web and mobile · 🤝 Open to collaboration
