@@ -1,7 +1,7 @@
-# 👋 Hey, I'm Abhishek
+# Hey, I'm Abhishek 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer;Web+%26+Mobile+Developer;Building+Scalable+Applications;Exploring+Data+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Web+%26+Mobile+Developer;Building+Scalable+Digital+Products;Exploring+Distributed+Systems" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="https://github.com/abhishek-vedteq">GitHub</a>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ### 🧑‍💻 About Me
 
@@ -17,46 +17,52 @@
 const abhishek = {
   role: "Full Stack Engineer",
   experience: "4+ Years",
-  interests: [
-    "Scalable Applications",
-    "Backend Architecture",
-    "Distributed Systems",
-    "Data Engineering"
+  focus: ["Frontend", "Backend", "Cloud"],
+  currentlyExploring: [
+    "Python",
+    "Data Engineering",
+    "Apache Spark",
+    "Distributed Systems"
   ],
-  currentlyLearning: ["Python", "Apache Spark"],
-  motto: "Build. Break. Learn. Repeat."
+  philosophy: "Build things that solve real problems."
 };
 ```
 
-### ⚡ Tech Stack
+### ⚙️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,express,nestjs,postgres,mongodb,mysql,redis,aws,docker,azure,cloudflare,python&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,nodejs,express,nestjs,postgres,mongodb,mysql,redis,aws,docker,azure,cloudflare,python&perline=9" />
 </p>
 
-### 📈 GitHub Analytics
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishek-vedteq&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishek-vedteq&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-vedteq&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=abhishek-vedteq&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=abhishek-vedteq&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🐍 Contribution Activity
+### 🌐 Profile Visitors
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhishek-vedteq/abhishek-vedteq/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://komarev.com/ghpvc/?username=abhishek-vedteq&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" />
+</p>
+
+### 📡 Currently Building
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=Scalable+Web+Applications;Modern+Backend+Systems;Cloud-Native+Solutions;Exploring+Data+Engineering" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=120&section=footer" width="100%" />
 </p>
 
 <p align="center">
-  <i>Code is my craft. Learning is my lifestyle. 🚀</i>
+  <i>Turning ideas into products, one commit at a time. 🚀</i>
 </p>
